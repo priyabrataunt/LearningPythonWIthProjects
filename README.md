@@ -28,37 +28,12 @@ It’s not just about writing code — it’s about **understanding** how Python
 
 ---
 
-## 🧩 Structure
-```
-/practice        # Basic Python exercises and concept demos
-/projects        # Small complete projects
-/experiments     # Trying out new ideas, tools, and libraries
-README.md        # You are here!
-```
-
----
-
 ## 🐾 Getting Started
 To explore or run any project:
-1. Clone this repository  
+Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/python-practice.git
+   git clone https://github.com/priyabrataunt/LearningPythonWIthProjects
    ```
-2. Navigate to the desired folder  
-   ```bash
-   cd python-practice/projects/project-name
-   ```
-3. Run the script  
-   ```bash
-   python main.py
-   ```
-
----
-
-## 💬 Contributing
-This is primarily a personal learning space, but suggestions and ideas are always welcome!  
-Feel free to open issues, share improvements, or fork the repo for your own experiments.
-
 ---
 
 ## 🧡 Acknowledgments
